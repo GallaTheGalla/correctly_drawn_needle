@@ -1,0 +1,12 @@
+descript
+{
+	version,1
+}
+
+surface0
+{
+	animation0.interval,always
+	animation0.pattern0,replace,0,0,0,0
+	animation0.pattern1,replace,1,200,0,0
+	animation0.pattern2,replace,0,200,0,0
+}

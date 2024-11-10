@@ -1,0 +1,13 @@
+charset,OSNative
+file,descript.txt8b2d178d48888ec31e9fe88d93502e24size=838date=2024-11-03T15:38:35
+file,developer_options.txt5f6aa7f1b563c566105132d305cc647bsize=57date=2022-10-22T01:34:54
+file,install.txt07c66123488174874991c4538f23f1b4size=92date=2024-11-03T15:07:26
+file,menu_background.png2cf1d1f2875327251de9dcfc3bdb56a6size=1631date=2024-11-03T15:31:34
+file,menu_foreground.png4800967c71ba07f8a6f72d1158312cc6size=1610date=2024-11-03T15:31:44
+file,readme.txt446718d630baf09d766a68edf6ebf8e9size=77date=2024-11-03T15:08:51
+file,surface0.png45ac52f0edecd6ef32f4c88d19aea560size=1790date=2024-11-03T15:19:30
+file,surface1.pngc14ee009a098264ff7ffdd98d50f6127size=1779date=2024-11-03T15:18:57
+file,surface10.png246a76925f4b9da347bc8af8891ded24size=166date=2022-05-08T23:53:16
+file,surfaces.txtee935b8fb44533ac8a86497664a1ca47size=191date=2024-11-03T15:27:34
+file,thumbnail.pna80de479cdc07ea6b738b3265b4b856f8size=1188date=2024-11-03T15:27:08
+file,thumbnail.png45ac52f0edecd6ef32f4c88d19aea560size=1790date=2024-11-03T15:19:30
